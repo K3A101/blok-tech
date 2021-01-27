@@ -1,9 +1,9 @@
 ## Concept
-* [Ideas & concept](concept.md)
+* [Ideas & Concept](concept.md)
 * [Job Stories](story.md)
 * [Requirements](requirements.md)
 * [Interface](interface.md)
-* [Design & styling](design.md)
+* [Design & Styling](design.md)
 
 ## Configuration
 * [Version Control](git.md)
@@ -20,3 +20,8 @@
 ## Client-side
 * [JavaScript concepts](javascript.md)
 * [Component](component.md)
+
+## Meta 
+* [Feedback][feedback.md]
+* [Progress][[progress.md]
+* [Resources][resources.md]
