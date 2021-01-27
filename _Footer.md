@@ -1,0 +1,1 @@
+Example wiki for Blok Tech
