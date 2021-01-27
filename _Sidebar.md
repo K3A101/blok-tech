@@ -1,27 +1,27 @@
 ## Concept
-* [Ideas & Concept](concept.md)
-* [Job Stories](story.md)
-* [Requirements](requirements.md)
-* [Interface](interface.md)
-* [Design & Styling](design.md)
+* [Ideas & Concept](/concept)
+* [Job Stories](/story)
+* [Requirements](/requirements)
+* [Interface](/interface)
+* [Design & Styling](/design)
 
 ## Configuration
-* [Version Control](git.md)
-* [Text Editor](editor.md)
-* [Command Line](cli.md)
-* [Coding standards](standards.md)
-* [Linters](linters.md)
-* [Deployment](deployment.md)
+* [Version Control](/git)
+* [Text Editor](/editor)
+* [Command Line](/cli)
+* [Coding standards](/standards)
+* [Linters](/linters)
+* [Deployment](/deployment)
 
 ## Server-side
-* [Templating engine](templating.md)
-* [Database structure](database.md)
+* [Templating engine](/templating)
+* [Database structure](/database)
 
 ## Client-side
-* [JavaScript concepts](javascript.md)
-* [Component](component.md)
+* [JavaScript concepts](/javascript)
+* [Component](/component)
 
 ## Meta 
-* [Feedback][feedback.md]
-* [Progress][[progress.md]
-* [Resources][resources.md]
+* [Feedback](/feedback)
+* [Progress](/progress)
+* [Resources](/resources)
