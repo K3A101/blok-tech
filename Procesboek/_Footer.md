@@ -1,1 +1,1 @@
-Wiki voor Blok Tech | Keïsha Alexander| Tech 3 |
+Wiki voor Blok Tech | Keïsha Alexander | Tech 3 |
