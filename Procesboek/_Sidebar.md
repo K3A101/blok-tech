@@ -3,7 +3,7 @@
 * [Job Stories](https://github.com/K3A101/blok-tech/wiki/story)
 * [Requirements](https://github.com/K3A101/blok-tech/wiki/requirements)
 * [Interface](https://github.com/K3A101/blok-tech/wiki/interface)
-* [Design & Styling](https://github.com/cmda-bt/pt-course-20-21/wiki/design)
+* [Design & Styling](https://github.com/K3A101/blok-tech/wiki/wiki/design)
 
 ## Configuration
 * [Version Control](https://github.com/K3A101/blok-tech/wiki/git)
